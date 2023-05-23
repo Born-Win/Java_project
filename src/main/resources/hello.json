@@ -1,0 +1,56 @@
+[
+  {
+    "identificationNumber": 8,
+    "name": "Standard washer-dryer AI DD™  EcoHybrid™ F4V7RC1WW",
+    "releaseDate": [
+      2020,
+      4,
+      11,
+      10,
+      30
+    ],
+    "model": {
+      "modelId": 4,
+      "modelName": "Washing machines"
+    },
+    "brand": {
+      "brandId": 4,
+      "brandName": "LG"
+    },
+    "registrationNumber": 8,
+    "manufactureData": [
+      2022,
+      3,
+      11,
+      9,
+      10
+    ]
+  },
+  {
+    "identificationNumber": 9,
+    "name": "Narrow washing machine  6 Motion™  Steam™ F2J6HS1W",
+    "releaseDate": [
+      2019,
+      11,
+      25,
+      8,
+      40
+    ],
+    "model": {
+      "modelId": 4,
+      "modelName": "Washing machines"
+    },
+    "brand": {
+      "brandId": 4,
+      "brandName": "LG"
+    },
+    "registrationNumber": 9,
+    "manufactureData": [
+      2021,
+      6,
+      21,
+      1,
+      51
+    ]
+  }
+]
