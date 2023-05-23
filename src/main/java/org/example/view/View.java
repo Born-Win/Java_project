@@ -7,9 +7,10 @@ import org.example.model.IndustrialProduct;
 import org.example.model.Model;
 
 import java.util.List;
+import java.util.Set;
 
-import static org.example.utility.Initializer.BRANDS;
-import static org.example.utility.Initializer.MODELS;
+import static org.example.constants.Constants.BRANDS;
+import static org.example.constants.Constants.MODELS;
 
 public class View {
 
@@ -48,6 +49,10 @@ public class View {
         System.out.println("-".repeat(159));
 
         products.forEach(System.out::println);
+    }
+    public void printBrandsToConsole(Set<String> brandNames){
+        System.out.println("Brands: ");
+        brandNames.forEach(System.out::println);
     }
 
     public void printBrandsToConsole() {

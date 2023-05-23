@@ -11,6 +11,7 @@ import org.example.view.Input;
 import org.example.validator.ResultValidator;
 
 import java.util.List;
+import java.util.Set;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 
@@ -46,6 +47,7 @@ public class ProductController implements Runnable{
 
         int userChoice;
         List<IndustrialProduct> result;
+        Set<String> brandNames;
         Brand brand;
         Model model;
 
@@ -65,8 +67,8 @@ public class ProductController implements Runnable{
                     break;
                 case 2:
                     model = input.readModelFromConsole();
-                    result = productService.findProductsByModel(model.getModelId());
-                    processResult(result);
+                    brandNames = productService.findProductsByModel(model.getModelId());
+                    processResult(brandNames);
                     break;
                 default:
                     stop();
@@ -96,4 +98,16 @@ public class ProductController implements Runnable{
             view.printResultNotFound();
         }
     }
+
+    public void processResult(Set<String> result){
+        if (validator.validate(result)) {
+            view.printBrandsToConsole(result);
+            String fileNameFromConsole = input.readFileNameFromConsole();
+            String saved = productService.saveProductsToFile(result, fileNameFromConsole);
+            view.printMessage(saved);
+        } else {
+            view.printResultNotFound();
+        }
+    }
+
 }

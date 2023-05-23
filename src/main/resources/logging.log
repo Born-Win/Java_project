@@ -9590,3 +9590,189 @@
 2023-05-23 20:07:01 INFO  ProductService:38 - result was saved
 2023-05-23 20:07:01 INFO  View:36 - Showed main menu
 2023-05-23 20:07:03 INFO  NumberValidator:12 - User chose option 3
+2023-05-23 20:37:09 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 20:37:09 INFO  ProductController:54 - Showed all products
+2023-05-23 20:37:09 INFO  View:36 - Showed main menu
+2023-05-23 20:38:46 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 20:38:46 INFO  View:61 - Showed all brands
+2023-05-23 20:38:53 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 20:38:53 INFO  Input:54 - User successfully chose station
+2023-05-23 20:38:53 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 20:39:02 INFO  ProductRepository:58 - Result was saved to file: C:\Users\Grish\IdeaProjects\LabJava\src\main\resources\adidas.json
+2023-05-23 20:39:02 INFO  ProductService:38 - result was saved
+2023-05-23 20:39:02 INFO  View:36 - Showed main menu
+2023-05-23 20:39:21 INFO  Input:41 - User chose not appropriate option. Message: Please, chose number between 1 and 3
+2023-05-23 20:39:26 INFO  Input:41 - User chose not appropriate option. Message: Please, chose number between 1 and 3
+2023-05-23 20:39:26 INFO  Input:41 - User chose not appropriate option. Message: Please, chose number between 1 and 3
+2023-05-23 20:39:26 INFO  Input:41 - User chose not appropriate option. Message: Please, chose number between 1 and 3
+2023-05-23 20:39:27 INFO  Input:41 - User chose not appropriate option. Message: Please, chose number between 1 and 3
+2023-05-23 20:39:27 INFO  Input:41 - User chose not appropriate option. Message: Please, chose number between 1 and 3
+2023-05-23 20:39:34 INFO  Input:45 - User input exception. Retrying to receive result
+2023-05-23 20:39:40 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 20:39:40 INFO  View:72 - Showed all models
+2023-05-23 20:39:43 INFO  NumberValidator:12 - User chose option 4
+2023-05-23 20:39:43 INFO  Input:62 - User successfully chose station
+2023-05-23 20:39:43 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 20:39:49 INFO  ProductRepository:58 - Result was saved to file: C:\Users\Grish\IdeaProjects\LabJava\src\main\resources\Lg.json
+2023-05-23 20:39:49 INFO  ProductService:38 - result was saved
+2023-05-23 20:39:49 INFO  View:36 - Showed main menu
+2023-05-23 20:39:50 INFO  NumberValidator:12 - User chose option 3
+2023-05-23 21:30:29 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 21:30:29 INFO  ProductController:54 - Showed all products
+2023-05-23 21:30:29 INFO  View:36 - Showed main menu
+2023-05-23 21:30:37 INFO  Input:41 - User chose not appropriate option. Message: Please, chose number between 1 and 3
+2023-05-23 21:30:40 INFO  Input:45 - User input exception. Retrying to receive result
+2023-05-23 21:30:43 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 21:30:43 INFO  View:61 - Showed all brands
+2023-05-23 21:32:31 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 21:32:31 INFO  Input:54 - User successfully chose station
+2023-05-23 21:32:31 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 21:32:39 INFO  ProductRepository:58 - Result was saved to file: C:\Users\Grish\IdeaProjects\LabJava\src\main\resources\adidas.json
+2023-05-23 21:32:39 INFO  ProductService:38 - result was saved
+2023-05-23 21:32:39 INFO  View:36 - Showed main menu
+2023-05-23 21:32:45 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 21:32:45 INFO  View:72 - Showed all models
+2023-05-23 21:32:50 INFO  NumberValidator:12 - User chose option 3
+2023-05-23 21:32:50 INFO  Input:62 - User successfully chose station
+2023-05-23 21:32:50 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 21:32:56 INFO  ProductRepository:58 - Result was saved to file: C:\Users\Grish\IdeaProjects\LabJava\src\main\resources\furniture.json
+2023-05-23 21:32:56 INFO  ProductService:38 - result was saved
+2023-05-23 21:32:56 INFO  View:36 - Showed main menu
+2023-05-23 21:32:59 INFO  NumberValidator:12 - User chose option 3
+2023-05-23 21:36:06 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 21:36:06 INFO  ProductController:54 - Showed all products
+2023-05-23 21:36:06 INFO  View:36 - Showed main menu
+2023-05-23 21:36:08 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 21:36:08 INFO  View:61 - Showed all brands
+2023-05-23 21:36:14 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 21:36:14 INFO  Input:54 - User successfully chose station
+2023-05-23 21:36:14 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 21:36:22 INFO  ProductRepository:58 - Result was saved to file: C:\Users\Grish\IdeaProjects\LabJava\src\main\resources\one.json
+2023-05-23 21:36:22 INFO  ProductService:38 - result was saved
+2023-05-23 21:36:22 INFO  View:36 - Showed main menu
+2023-05-23 21:36:25 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 21:36:25 INFO  View:72 - Showed all models
+2023-05-23 21:36:28 INFO  NumberValidator:12 - User chose option 3
+2023-05-23 21:36:28 INFO  Input:62 - User successfully chose station
+2023-05-23 21:36:28 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 21:36:32 INFO  ProductRepository:58 - Result was saved to file: C:\Users\Grish\IdeaProjects\LabJava\src\main\resources\two.json
+2023-05-23 21:36:32 INFO  ProductService:38 - result was saved
+2023-05-23 21:36:32 INFO  View:36 - Showed main menu
+2023-05-23 21:36:35 INFO  NumberValidator:12 - User chose option 3
+2023-05-23 22:28:13 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:28:13 INFO  ProductController:55 - Showed all products
+2023-05-23 22:28:13 INFO  View:36 - Showed main menu
+2023-05-23 22:28:15 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 22:28:15 INFO  View:72 - Showed all models
+2023-05-23 22:28:16 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 22:28:16 INFO  Input:62 - User successfully chose station
+2023-05-23 22:28:16 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:28:16 INFO  View:36 - Showed main menu
+2023-05-23 22:44:39 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:44:39 INFO  ProductController:55 - Showed all products
+2023-05-23 22:44:39 INFO  View:36 - Showed main menu
+2023-05-23 22:44:42 INFO  Input:45 - User input exception. Retrying to receive result
+2023-05-23 22:44:43 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 22:44:43 INFO  View:72 - Showed all models
+2023-05-23 22:44:45 INFO  NumberValidator:12 - User chose option 4
+2023-05-23 22:44:45 INFO  Input:62 - User successfully chose station
+2023-05-23 22:44:45 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:44:45 INFO  View:36 - Showed main menu
+2023-05-23 22:45:47 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:45:47 INFO  ProductController:55 - Showed all products
+2023-05-23 22:45:47 INFO  View:36 - Showed main menu
+2023-05-23 22:46:03 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 22:46:03 INFO  View:72 - Showed all models
+2023-05-23 22:46:06 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:46:06 INFO  ProductController:55 - Showed all products
+2023-05-23 22:46:06 INFO  View:36 - Showed main menu
+2023-05-23 22:46:08 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 22:46:08 INFO  View:72 - Showed all models
+2023-05-23 22:46:10 INFO  NumberValidator:12 - User chose option 3
+2023-05-23 22:46:10 INFO  Input:62 - User successfully chose station
+2023-05-23 22:46:31 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:46:31 INFO  View:36 - Showed main menu
+2023-05-23 22:47:47 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:47:47 INFO  ProductController:55 - Showed all products
+2023-05-23 22:47:47 INFO  View:36 - Showed main menu
+2023-05-23 22:47:50 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 22:47:50 INFO  View:72 - Showed all models
+2023-05-23 22:47:51 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 22:47:51 INFO  Input:62 - User successfully chose station
+2023-05-23 22:48:03 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:48:12 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:49:25 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:49:44 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:49:49 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:50:43 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:50:43 INFO  View:36 - Showed main menu
+2023-05-23 22:50:47 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:50:47 INFO  ProductController:55 - Showed all products
+2023-05-23 22:50:47 INFO  View:36 - Showed main menu
+2023-05-23 22:50:49 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 22:50:49 INFO  View:72 - Showed all models
+2023-05-23 22:50:51 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 22:50:51 INFO  Input:62 - User successfully chose station
+2023-05-23 22:50:57 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:52:07 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:52:42 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:53:18 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:53:27 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:53:39 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:54:03 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:54:32 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:55:11 INFO  ProductRepository:40 - All products obtained from shop
+2023-05-23 22:55:11 INFO  View:36 - Showed main menu
+2023-05-23 23:04:41 INFO  ProductRepository:36 - All products obtained from shop
+2023-05-23 23:04:41 INFO  ProductController:56 - Showed all products
+2023-05-23 23:04:41 INFO  View:37 - Showed main menu
+2023-05-23 23:04:43 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 23:04:43 INFO  View:77 - Showed all models
+2023-05-23 23:04:45 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 23:04:45 INFO  Input:62 - User successfully chose station
+2023-05-23 23:04:45 INFO  ProductRepository:36 - All products obtained from shop
+2023-05-23 23:04:45 INFO  View:37 - Showed main menu
+2023-05-23 23:05:07 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 23:05:07 INFO  View:77 - Showed all models
+2023-05-23 23:05:11 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 23:05:11 INFO  Input:62 - User successfully chose station
+2023-05-23 23:05:11 INFO  ProductRepository:36 - All products obtained from shop
+2023-05-23 23:05:11 INFO  View:37 - Showed main menu
+2023-05-23 23:05:15 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 23:05:15 INFO  View:77 - Showed all models
+2023-05-23 23:05:17 INFO  NumberValidator:12 - User chose option 3
+2023-05-23 23:05:17 INFO  Input:62 - User successfully chose station
+2023-05-23 23:05:17 INFO  ProductRepository:36 - All products obtained from shop
+2023-05-23 23:05:17 INFO  View:37 - Showed main menu
+2023-05-23 23:05:57 INFO  ProductRepository:36 - All products obtained from shop
+2023-05-23 23:05:57 INFO  ProductController:56 - Showed all products
+2023-05-23 23:05:57 INFO  View:37 - Showed main menu
+2023-05-23 23:05:59 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 23:05:59 INFO  View:77 - Showed all models
+2023-05-23 23:06:00 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 23:06:00 INFO  Input:62 - User successfully chose station
+2023-05-23 23:06:00 INFO  ProductRepository:36 - All products obtained from shop
+2023-05-23 23:06:06 INFO  ProductRepository:67 - Result was saved to file: C:\Users\Grish\IdeaProjects\LabJava\src\main\resources\hello.json
+2023-05-23 23:06:06 INFO  ProductService:49 - result was saved
+2023-05-23 23:06:06 INFO  View:37 - Showed main menu
+2023-05-23 23:06:08 INFO  NumberValidator:12 - User chose option 3
+2023-05-23 23:13:05 INFO  ProductRepository:36 - All products obtained from shop
+2023-05-23 23:13:05 INFO  ProductController:56 - Showed all products
+2023-05-23 23:13:05 INFO  View:37 - Showed main menu
+2023-05-23 23:13:07 INFO  NumberValidator:12 - User chose option 1
+2023-05-23 23:13:07 INFO  View:66 - Showed all brands
+2023-05-23 23:13:09 INFO  NumberValidator:12 - User chose option 3
+2023-05-23 23:13:09 INFO  Input:53 - User successfully chose station
+2023-05-23 23:13:09 INFO  ProductRepository:36 - All products obtained from shop
+2023-05-23 23:13:12 INFO  ProductRepository:53 - Result was saved to file: C:\Users\Grish\IdeaProjects\LabJava\src\main\resources\yes.json
+2023-05-23 23:13:12 INFO  ProductService:39 - result was saved
+2023-05-23 23:13:12 INFO  View:37 - Showed main menu
+2023-05-23 23:13:14 INFO  NumberValidator:12 - User chose option 2
+2023-05-23 23:13:14 INFO  View:77 - Showed all models
+2023-05-23 23:13:16 INFO  NumberValidator:12 - User chose option 4
+2023-05-23 23:13:16 INFO  Input:61 - User successfully chose station
+2023-05-23 23:13:16 INFO  ProductRepository:36 - All products obtained from shop
+2023-05-23 23:13:19 INFO  ProductRepository:67 - Result was saved to file: C:\Users\Grish\IdeaProjects\LabJava\src\main\resources\no.json
+2023-05-23 23:13:19 INFO  ProductService:49 - result was saved
+2023-05-23 23:13:19 INFO  View:37 - Showed main menu
+2023-05-23 23:13:21 INFO  NumberValidator:12 - User chose option 3

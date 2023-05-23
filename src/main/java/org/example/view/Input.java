@@ -10,8 +10,7 @@ import org.example.validator.NumberValidator;
 import java.util.Scanner;
 
 import static org.example.constants.Constants.*;
-import static org.example.utility.Initializer.BRANDS;
-import static org.example.utility.Initializer.MODELS;
+
 
 
 public class Input {
